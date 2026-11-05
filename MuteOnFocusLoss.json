@@ -1,0 +1,12 @@
+
+{
+  "id": "mute_on_focus_loss",
+  "name": "Mute On Focus Loss",
+  "author": ["vlrm"],
+  "description": "Mutes Balatro when the game loses focus!",
+  "prefix": "mofl",
+  "main_file": "main.lua",
+  "priority": 0,
+  "version": "1.0.1",
+  "icon_path": "icon.png"
+}
