@@ -15,7 +15,7 @@ Support bunch of languages, such as: English, German, French, Russian, Simplifie
 5. Find the mod in the Mods menu.
 
 ## Compatibility
-Was designed for Steamodded in mind, so compatibility with other audio mods is not garanteed (but should be fine), but you always open Issue ticket!
+Was designed for Steamodded in mind, so compatibility with other audio mods is not garanteed (but should be fine), but you always can open new Issue ticket!
 
 ## Lisence
 MIT License
